@@ -1,0 +1,87 @@
+﻿# Used in definition order
+
+cossack = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_turkic }
+				scope:other_culture = { has_cultural_pillar = heritage_east_slavic }
+			}
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_east_slavic }
+				scope:other_culture = { has_cultural_pillar = heritage_turkic }
+			}
+		}
+	}
+	hybrid = yes
+}
+
+gascon = {
+	trigger = {
+		OR = {
+			capital_county = {
+				title:k_aquitaine = {
+					is_de_jure_liege_or_above_target = prev
+				}
+			}
+			primary_title = title:k_aquitaine
+		}
+		OR = {
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_frankish }
+				scope:other_culture = culture:basque
+			}
+			AND = {
+				scope:culture = culture:basque
+				scope:other_culture = { has_cultural_pillar = heritage_frankish }
+			}
+		}
+	}
+	hybrid = yes
+}
+
+kven = {
+	trigger = {
+		OR = {
+			capital_county = {
+				OR = {
+					title:k_norway = {
+						is_de_jure_liege_or_above_target = prev
+					}
+					title:k_sapmi = {
+						is_de_jure_liege_or_above_target = prev
+					}
+				}
+			}
+			primary_title = title:k_norway
+			primary_title = title:k_sapmi
+		}
+		OR = {
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_north_germanic }
+				scope:other_culture = culture:sami
+			}
+			AND = {
+				scope:culture = culture:sami
+				scope:other_culture = { has_cultural_pillar = heritage_north_germanic }
+			}
+		}
+	}
+	hybrid = yes
+}
+
+wendish = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_central_germanic }
+				scope:other_culture = { has_cultural_pillar = heritage_west_slavic }
+			}
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_west_slavic }
+				scope:other_culture = { has_cultural_pillar = heritage_central_germanic }
+			}
+		}
+	}
+	hybrid = yes
+}
