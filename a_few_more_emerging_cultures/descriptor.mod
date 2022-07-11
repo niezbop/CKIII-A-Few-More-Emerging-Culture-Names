@@ -3,5 +3,5 @@ tags={
 	"Culture"
 	"Gameplay"
 }
-name="A few more Emerging Cultures"
+name="A few more Emerging Culture Names"
 supported_version="1.6.*"
