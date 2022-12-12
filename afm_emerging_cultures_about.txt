@@ -19,6 +19,11 @@ This mod simply adds a few things, it should be [b]compatible with almost all mo
 This mod is [b]Ironman Compatible[/b] but will [b]disable Achievements[/b].
 
 [h1]Links[/h1]
-You may also be interested in my other mods, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2765890006]Slightly More Interesting Russia[/url] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2765843981]Slightly More Interesting Crimea[/url]
+You may also be interested in my other mods!
+[list]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2765843981]Slightly More Interesting Crimea[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2765890006]Slightly More Interesting Russia[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2854434625]Syncretic Special Buildings[/url]
+[/list]
 
 This project can be found on [url=https://github.com/niezbop/CKIII-A-Few-More-Emerging-Culture-Names]Github[/url]
