@@ -1,0 +1,24 @@
+[h1]About[/h1]
+
+[b]A few more Emerging Culture Names[/b] is a simple mod that adds a few predefined culture names for hybridization.
+
+[h1]Features[/h1]
+[list]
+[*] The [b]Cossacks[/b] hybridize from any [b]East Slavic[/b] and any [b]Turkic[/b] culture.
+[*] The [b]Gascons[/b] hybridize from [b]Basque[/b] and any [b]Frankish[/b] culture in [b]Aquitaine[/b].
+[*] The [b]Kvens[/b] hybridize from [b]Sami[/b] and any [b]North Germanic[/b] culture in [b]Norway[/b] or [b]Sápmi[/b].
+[*] The [b]Wends[/b] hybridize from any [b]West Slavic[/b] and any [b]Central Germanic[/b] culture.
+[/list]
+
+[h1]Compatibility[/h1]
+
+This mod simply adds a few things, it should be [b]compatible with almost all mods[/b]. It will naturally conflict with other mods that offer the same features, but nothing would be game breaking.
+
+[h2]Achievements Compatibility[/h2]
+
+This mod is [b]Ironman Compatible[/b] but will [b]disable Achievements[/b].
+
+[h1]Links[/h1]
+You may also be interested in my other mods, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2765890006]Slightly More Interesting Russia[/url] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2765843981]Slightly More Interesting Crimea[/url]
+
+This project can be found on [url=https://github.com/niezbop/CKIII-A-Few-More-Emerging-Culture-Names]Github[/url]
