@@ -14,10 +14,6 @@
 
 This mod simply adds a few things, it should be [b]compatible with almost all mods[/b]. It will naturally conflict with other mods that offer the same features, but nothing would be game breaking.
 
-[h2]Achievements Compatibility[/h2]
-
-This mod is [b]Ironman Compatible[/b] but will [b]disable Achievements[/b].
-
 [h1]Links[/h1]
 You may also be interested in my other mods!
 [list]

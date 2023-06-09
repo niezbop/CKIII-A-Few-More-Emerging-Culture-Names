@@ -4,5 +4,5 @@ tags={
 	"Gameplay"
 }
 name="A few more Emerging Culture Names"
-supported_version="1.8.*"
+supported_version="1.9.*"
 remote_file_id="2833935905"
